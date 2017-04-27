@@ -3,7 +3,7 @@
 //  iTunesTopTenSongs
 //
 //  Created by mruiz723 on 2/8/16.
-//  Copyright © 2016 nextU. All rights reserved.
+//  Copyright © 2016 nextU. All rights reserved..
 //
 
 import Foundation
